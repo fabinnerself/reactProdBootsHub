@@ -11,7 +11,7 @@ Este proyecto implementa operaciones CRUD completas (Crear, Leer, Actualizar y E
 
 *Paginación: El grid incluye paginación y permite seleccionar el número de elementos por página (10, 20, etc.).
 
-*Función de Limpiar Filtro: Se puede limpiar el filtro **.
+*Función de Limpiar Filtro: Se puede limpiar el filtro.
 
 ### Requisitos del Sistema
 
